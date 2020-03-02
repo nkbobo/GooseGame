@@ -17,7 +17,7 @@ public class GameState {
     private final Map<String, Player> players;
 
     public GameState() {
-        this.players = new HashMap<>();
+        this.players = new HashMap<String, Player>();
     }
 
     public void addPlayer(String name) {

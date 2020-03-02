@@ -3,7 +3,9 @@ The Goose Game Kata
 
 ## Compile game
 
+JDK version 1.8 and maven 3 are required to build the game. To compile and build the project:
 
+mvn clean package on the project directory.
 
 ## Play game
 

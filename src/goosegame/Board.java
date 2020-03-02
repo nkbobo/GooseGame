@@ -27,7 +27,7 @@ public class Board {
     }
 
     private void specialSpacesInit() {
-        specialSpaces = new HashMap<>();
+        specialSpaces = new HashMap<Integer, String>();
         specialSpaces.put(0, START);
         specialSpaces.put(6, THE_BRIDGE);
         //init 5, 9, 14, 18, 23, 27 to The Goose

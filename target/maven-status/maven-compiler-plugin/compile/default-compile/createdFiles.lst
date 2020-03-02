@@ -1,0 +1,6 @@
+goosegame\GooseGame.class
+goosegame\Board.class
+goosegame\GameState.class
+goosegame\Commands.class
+goosegame\Player.class
+goosegame\Dice.class
